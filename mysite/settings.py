@@ -25,7 +25,7 @@ SECRET_KEY = 'l&fl5=0#2i4#zze!r$0k^5u2ihybvezc0_avg2wak*^u+!mbln'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'zoya77.pyhtonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'higherway.pyhtonanywhere.com']
 
 
 
